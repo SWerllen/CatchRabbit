@@ -1,2 +1,2 @@
 # CatchRabbit
-![There is the running record](display catch rabbit.gif)
+![There is the running record](display.gif)
